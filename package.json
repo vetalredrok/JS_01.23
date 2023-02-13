@@ -1,0 +1,7 @@
+{
+  "name": "JS_01.23",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
